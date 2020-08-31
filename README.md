@@ -1,5 +1,5 @@
 # SpicedVanilla
-SpicedVanilla server modpack.
+SpicedVanilla server modpack. Server IP: **SpicedVanilla.mcserver.us**
 
 ## Dependencies
 1.16.1 Forge Client *[Required for modpack]*
