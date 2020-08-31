@@ -11,35 +11,37 @@ This modpack was designed specifically for the *SpicedVanilla* server in order t
 - 26.4 MB total size
 
 ### Modpack List
-Quark Oddities
-NetherPortalFix
-The Conjurer
-Structure Gel API
-Abnormals Core
-Buzzier Bees
-Upgrade Aquatic
-Extra Boats
-YUNG’s Better Caves
-Champions
-Bookshelf
-Bedspreads
-Ma Essentials [admin for server]
-Forge
-Waddles
-Infernal Mobs
-Minecraft [decompiled by MCP tech]
-Endergetic Expansion
-Biomes O’ Plenty
-Dungeons Plus
-Atmospheric
-Savage & Ravage
-Collective
-Autumnity
-AutoRegLib
-Quark
-Enhanced Mushrooms
-AI-Improvements
-BetterBurning
-SoundFilters
-YUNG’s Better Mineshafts
-
+- Quark Oddities
+- NetherPortalFix
+- The Conjurer
+- Structure Gel API
+- Abnormals Core
+- Buzzier Bees
+- Upgrade Aquatic
+- Extra Boats
+- YUNG’s Better Caves
+- Champions
+- Bookshelf
+- Bedspreads
+- Ma Essentials [admin for server]
+- Forge
+- Waddles
+- Infernal Mobs
+- Minecraft [decompiled by MCP tech]
+- Endergetic Expansion
+- Biomes O’ Plenty
+- Dungeons Plus
+- Atmospheric
+- Savage & Ravage
+- Collective
+- Autumnity
+- AutoRegLib
+- Quark
+- Enhanced Mushrooms
+- AI-Improvements
+- BetterBurning
+- SoundFilters
+- YUNG’s Better Mineshafts
+- Regrowth
+- Valhelsia Structures
+- Waypoints
