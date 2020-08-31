@@ -1,0 +1,2 @@
+# SpicedVanilla
+SpicedVanilla modpack.
