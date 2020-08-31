@@ -1,5 +1,6 @@
 # SpicedVanilla
 SpicedVanilla server modpack. 
+
 Server IP: **SpicedVanilla.mcserver.us**
 
 ## Dependencies
